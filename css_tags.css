@@ -1,12 +1,13 @@
+@import 'cascade.css';
 section{
-
+background-color: silver;
 }
 
 h1, p{
-
+color:slateblue;
 }
 
 p i{
-
+color: teal;
 }
 
